@@ -3,7 +3,6 @@
 <br/>
 <h2>🏫 Experience & Social Activity</h2>
 <!-- **Experience & Social Activity** -->
-<h5>
 소속 및 단체　　　　 　|　활동 기간　　　　　　　|　내용　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 <br/>
 국민대학교　　　　 　　|　2020.03~　　　　　　|　국민대학교 소프트웨어학부 재학　　　　　　　　　　　　　　　　　　
@@ -15,12 +14,10 @@ FOSCAR　　　　 　　|　2022.08 ~ 2023.11　|　자율주행 연구 & 개�
 멋쟁이사자처럼　　　　|　2022.03 ~ 2023.11 　|　대학생 연합 IT 창업 동아리 10th & 11th　　　　　　　　　　
 <br/>
 KOSS　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트웨어 학회 KOSS 회원　　　
-</h5>　　　　　　　　　　　
 <br/>
 <br/>
 <h2>🖥 Projects</h2>
 <!-- **Projects** -->
-<h5>
 |　　　　　기간　　　　|　　　　　　　　　　　　　　　내용　　　　　　　　　　　　　　　　　　
 <br/>
 2023.02 ~ 2023.06　|　대학생을 위한 설문 플랫폼 서비스 '<a href="https://github.com/2023-AlphaProject/iBelieveSurvey_backend">IBelieveSurvey</a>' Backend 개발　
@@ -38,12 +35,10 @@ KOSS　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트�
 2022.09 ~ 2022.12　|　발의법률안 서비스 '<a href="https://github.com/MopeTeam1/Nemsy_client">법률안 창구</a>' Frontend 개발
 <br/>
 2023.01 ~ 2023.02　|　지인 기반 카풀 서비스 '<a href="https://github.com/ShuPool/Shupool-frontend">ShuPool</a>' Frontend 개발　
-</h5>
 <br/>
 <br/>
 <h2>🥇 Awards/Certificates</h2>
 <!-- **Awards / Certificates** -->
-<h5>
 <d>🥇 2021 제19회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 최우수상</d>
 <br/>
 <d>📃 2023 LG Aimers 온라인 AI 교육 수료</d>
@@ -51,7 +46,6 @@ KOSS　　　　　　　　|　2021.03 ~ 2022.08　|　오픈소스 소프트�
 <d>🎖 2023 대학생 창작 모빌리티 경진대회 무인 모빌리티 부문 우수상</d>
 <br/>
 <d>🥇 2023 자율주행 S/W 고도화 대회 센터장상(대상)</d>
-</h5>
 <br/>
 <d></d>
 
