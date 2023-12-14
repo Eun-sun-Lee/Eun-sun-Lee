@@ -1,7 +1,3 @@
-<h2>💡 Introduce Me!  </h2>
-<!-- **Introduce Me!** -->
-<h1>🖐 열의와 도전을 통해 끊임없이 성장하는 주니어 개발자입니다.</h1>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunsun2080)](https://solved.ac/eunsun2080/)
 
 <h2>🎓 Experience & Social Activity</h2>
