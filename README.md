@@ -1,6 +1,3 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunsun2080)](https://solved.ac/eunsun2080/)
-
-<br/>
 <h2>🏫 Experience & Social Activity</h2>
 
 |소속 및 단체|활동 기간|내용|
@@ -73,4 +70,12 @@
  <a href="https://esssun.tistory.com/"><img alt="RED" src ="https://img.shields.io/badge/Tistory-FF6600.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <a href="https://github.com/Eun-sun-Lee/"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
-</div><br/>
+</div>
+<br/>
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunsun2080)](https://solved.ac/eunsun2080/)
+
+
+
+<br/>
