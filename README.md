@@ -25,20 +25,20 @@
 
 <br/>
 <h2>🥇 Awards </h2>
+
 |수상 년월|발행 기관|내용|
 |---|---|---|
-|2021.12|임베디드소프트웨어·시스템산업협회(KESSIA)| 2021 제19회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 최우수상 |
-|2023.10|한국자동차안전학회|2023 대학생 창작 모빌리티 경진대회 무인 모빌리티 부문 우수상 |
-|2023.11|서울대학교 미래모빌리티기술센터|2023 자율주행 S/W 고도화 대회 센터장상(대상) |　　　　
-|2024.02|미래자동차 혁신융합대학사업단|2023 동계 혁신융합대학 가상환경기반 자율주행 경진대회 장려상 |　　　　　　　　
-
-
-<br/>
+|2021.12| 임베디드소프트웨어·시스템산업협회(KESSIA) | 2021 제19회 임베디드 소프트웨어 경진대회 지능형 휴머노이드 부문 최우수상 |
+|2023.10| 한국자동차안전학회 | 2023 대학생 창작 모빌리티 경진대회 무인 모빌리티 부문 우수상 |
+|2023.11| 서울대학교 미래모빌리티기술센터 | 2023 자율주행 S/W 고도화 대회 센터장상(대상) |
+|2024.02| 미래자동차 혁신융합대학사업단 | 2023 동계 혁신융합대학 가상환경기반 자율주행 경진대회 장려상 |
 
 <br/>
-<h2>👩🏻‍💻 Tech Skills!  </h2>
+
+<br/>
+<h2>📱 Tech Skills  </h2>
 <!-- **Tech Skil** -->
-<h3> 📲 Frontend </h3>
+<h3> Frontend </h3>
 <div>
 <img alt="RED" src ="https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -47,7 +47,7 @@
 <img alt="RED" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
 </div>
 
-<h3>⚒ Backend </h3>
+<h3> Backend </h3>
 <div>
 <img alt="RED" src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
@@ -56,12 +56,15 @@
 <img alt="RED" src ="https://img.shields.io/badge/SPRING BOOT-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
 
-<h3>⚒ Embedded </h3>
+<h3> Embedded </h3>
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-
 </div>
+
+<br/>
+<br/>
+
 <h2>📝 Tools and SNS </h2>
 <div>
  <a href="https://esssun.tistory.com/"><img alt="RED" src ="https://img.shields.io/badge/Tistory-FF6600.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
