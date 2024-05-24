@@ -13,7 +13,7 @@
 
 | 기간 | 내용 |
 | --- | --- |
-| 2024.02 ~ 2024.06　|AI 기반 노인 돌봄 통합형 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-25">올봄</a>' 팀장 및 Backend 개발 |
+| 2024.02 ~ 2024.06　|AI 기반 장년층 라이프 케어 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-25">올봄</a>' 팀장 및 Backend 개발 |
 | 2023.02 ~ 2023.06　|대학생을 위한 설문 플랫폼 서비스 '<a href="https://github.com/2023-AlphaProject/iBelieveSurvey_backend">IBelieveSurvey</a>' Backend 개발 |
 | 2022.06 ~ 2022.08　|같은 부대 내 장병들을 위한 커뮤니티 서비스 '<a href="https://github.com/Eun-sun-Lee/WithIn_back">WithIn</a>' Backend 개발　|
 | 2022.06 ~ 2022.08　|같은 부대 내 장병들을 위한 커뮤니티 서비스 '<a href="https://github.com/Eun-sun-Lee/WithIn_front">WithIn</a>' Frontend 개발 |　
