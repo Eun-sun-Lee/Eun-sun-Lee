@@ -16,9 +16,9 @@
 | --- | --- |
 | 2024.02 ~ 2024.06　|AI 기반 장년층 라이프 케어 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-25">올봄</a>' 팀장 및 Backend 개발 |
 | 2023.02 ~ 2023.06　|대학생을 위한 설문 플랫폼 서비스 '<a href="https://github.com/2023-AlphaProject/iBelieveSurvey_backend">IBelieveSurvey</a>' Backend 개발 |
+| 2022.12 ~ 2023.02　|설날 맞이 지인과 덕담을 주고받을 수 있는 서비스 '<a href="https://github.com/Eun-sun-Lee/Making-Tteokguk-BE">떡국만들기</a>' Backend 개발 |
 | 2022.06 ~ 2022.08　|같은 부대 내 장병들을 위한 커뮤니티 서비스 '<a href="https://github.com/Eun-sun-Lee/WithIn_back">WithIn</a>' Backend 개발　|
-| 2022.06 ~ 2022.08　|같은 부대 내 장병들을 위한 커뮤니티 서비스 '<a href="https://github.com/Eun-sun-Lee/WithIn_front">WithIn</a>' Frontend 개발 |　
-| 2022.12 ~ 2023.02　|설날 맞이 지인과 덕담을 주고받을 수 있는 서비스 '<a href="https://github.com/Eun-sun-Lee/Making-Tteokguk-BE">떡국만들기</a>' Backend 개발 |　
+| 2022.06 ~ 2022.08　|같은 부대 내 장병들을 위한 커뮤니티 서비스 '<a href="https://github.com/Eun-sun-Lee/WithIn_front">WithIn</a>' Frontend 개발 |　　
 | 2022.06 ~ 2022.09　|제로웨이스터들을 위한 플랫폼 서비스 '<a href="https://github.com/People-zero/Bzero">BZero</a>' Frontend 개발　|
 | 2022.06 ~ 2022.09　|공동 배달 서비스 '<a href="https://github.com/Eun-sun-Lee/eatogether">Eatogether</a>' 팀장 및 Backend 개발　|
 | 2022.09 ~ 2022.12　|발의법률안 서비스 '<a href="https://github.com/MopeTeam1/Nemsy_client">법률안 창구</a>' Frontend 개발 |
