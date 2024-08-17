@@ -1,4 +1,4 @@
-<h2>⭐️ About Me</h2>
+<h2>🌟 About Me</h2>
 안녕하세요. 문제를 주도적으로 해결하며 변화를 이끄는 개발자입니다.
 
 <h2>🏫 Experience & Social Activity</h2>
