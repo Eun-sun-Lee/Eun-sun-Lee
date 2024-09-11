@@ -48,12 +48,12 @@
 
 <h3> Backend </h3>
 <div>
-<img alt="RED" src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="RED" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
- <img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/SPRING-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/SPRING BOOT-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/Spring Cloud Gateway-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
+<img alt="RED" src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="RED" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
 <img alt="RED" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/>
  <img alt="RED" src ="https://img.shields.io/badge/PostgreSQL-4479A1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
